@@ -1,14 +1,14 @@
-baseURL = 'http://saral-hugo-theme.pages.dev'
+baseURL = 'https://techrelay.pro'
 languageCode = 'en-us'
-title = 'Saral : A simple hugo theme'
-author = "dipeshsingh253"
+title = 'Tech Relay Consulting'
+author = "Nicholas Bennett"
 
 # theme = 'saral'
 pygmentsCodefences = true
 pygmentsStyle = "doom-one"
 
 [params]
-    logoText = "Saral"
+    logoText = "Tech Relay"
     isBlogFocused = true
     showHeroImage = true
     showResumeButton = false
